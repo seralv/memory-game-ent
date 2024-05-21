@@ -1,50 +1,50 @@
 [
     {
-        "image": "../assets/esther.png",
+        "image": "./assets/esther.png",
         "name": "esther"
     },
     {
-        "image": "../assets/sanson.png",
+        "image": "./assets/sanson.png",
         "name": "sanson"
     },
     {
-        "image": "../assets/joseph.png",
+        "image": "./assets/joseph.png",
         "name": "joseph"
     },
     {
-        "image": "../assets/nabu.png",
+        "image": "./assets/nabu.png",
         "name": "nabu"
     },
     {
-        "image": "../assets/daniel.png",
+        "image": "./assets/daniel.png",
         "name": "daniel"
     },
     {
-        "image": "../assets/peter.png",
+        "image": "./assets/peter.png",
         "name": "peter"
     },
     {
-        "image": "../assets/zaqueo.png",
+        "image": "./assets/zaqueo.png",
         "name": "zaqueo"
     },
     {
-        "image": "../assets/jonah.png",
+        "image": "./assets/jonah.png",
         "name": "jonah"
     },
     {
-        "image": "../assets/baptist.png",
+        "image": "./assets/baptist.png",
         "name": "baptist"
     },
     {
-        "image": "../assets/jesus.png",
+        "image": "./assets/jesus.png",
         "name": "jesus"
     },
     {
-        "image": "../assets/moses.png",
+        "image": "./assets/moses.png",
         "name": "moses"
     },
     {
-        "image": "../assets/ark.png",
+        "image": "./assets/ark.png",
         "name": "ark"
     }
 ]
